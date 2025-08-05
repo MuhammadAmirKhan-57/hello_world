@@ -1,5 +1,5 @@
 void main () {
- print(formatFullName('Saad', 'Khan' ));
+ print(formatFullName('Saad', 'Khan', ));
 }
 
 String formatFullName (String firstName, String lastName, {String? nickName}) {
