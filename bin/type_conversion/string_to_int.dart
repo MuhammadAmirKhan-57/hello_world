@@ -1,5 +1,6 @@
 // Convert String To Int In Dart
-// You can convert String to int using int.parse() method. The method takes String as an argument and converts it into an integer.
+// You can convert String to int using int.parse() method. 
+//The method takes String as an argument and converts it into an integer.
 
 void main () {
   String strValue = "1";
