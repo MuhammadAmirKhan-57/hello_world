@@ -4,6 +4,7 @@
 
 void main() {
   bool isMarried = false;
+  // ignore: dead_code
   print(isMarried ? "You are married." : "You are single.");
 }
 
